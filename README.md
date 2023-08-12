@@ -15,8 +15,10 @@ Creating a DC motor circle and using an encoder for controlling it.
   3- DC Motor with Encoder.
   4- H-bridge Motor Driver.
   5- Wires.
+  
  ** Component List:
-  [list]()
+  [list](bom(5).csv)
+  
 # Circle Code:
 
     #define motorA 5
