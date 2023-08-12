@@ -10,6 +10,7 @@ Creating a DC motor circle and using an encoder for controlling it.
  ![photo](schematicDc.png)
 
 # Circle requirements:
+  
   1- Arduino Uno R3.
   2- Breadboard.
   3- DC Motor with Encoder.
